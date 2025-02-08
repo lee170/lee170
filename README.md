@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lee170
 - 👀 I’m interested in Python, R, Java, and Mathematica
 - 💞️ I’m looking to collaborate on projects in Python, R, Java, or Mathematica
-- 📫 How to reach me lee@truthfromdata.com
+- 📫 How to reach me lmgodfrey@mac.com
 
 <!---
 lee170/lee170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
